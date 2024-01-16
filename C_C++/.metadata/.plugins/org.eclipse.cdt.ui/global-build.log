@@ -1,0 +1,10 @@
+Building in: /home/machine/Projects/C_C++/MyFirstCppProject/build/default
+ sh -c "meson   /home/machine/Projects/C_C++/MyFirstCppProject"
+Error: build command 'meson' not found
+Failure running meson: Building in: /home/machine/Projects/C_C++/MyFirstCppProject/build/default
+ sh -c "meson   /home/machine/Projects/C_C++/MyFirstCppProject"
+Error: build command 'meson' not found
+Failure running meson: Building in: /home/machine/Projects/C_C++/MyFirstCppProject/build/default
+ sh -c "meson   /home/machine/Projects/C_C++/MyFirstCppProject"
+Error: build command 'meson' not found
+Failure running meson: 
